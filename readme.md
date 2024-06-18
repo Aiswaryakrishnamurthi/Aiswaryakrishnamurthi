@@ -4,3 +4,4 @@
 - 📫 How to reach me :
 <br /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/aiswarya-krishnamurthi-2a53b6255/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswarya-krishnamurthi-2a53b6255/)
